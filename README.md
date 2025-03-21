@@ -5,7 +5,7 @@ My name is Nguyen Cuong. I am study at Saigon University ![image](https://github
 
 ## 📫 How to reach me: 
 
-[![Facebook](https://i.stack.imgur.com/tskMh.png) Facebook]([https://github.com/vietnh1009/](https://www.facebook.com/nguyen.cuong.661620)) 
+[![Nguyen Cuong GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Nguyen Cuong stats](https://github-readme-stats-git-masterstaa-rickstaa.vercel.app/apiusername=vietnh1009&show_icons=true&theme=midnight-purple&hide=contribs,prs,issues&custom_title=Nguyen%20Cuong%20GitHub%20Stats)
