@@ -1,5 +1,6 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Nguyen Cuong. I am study at Saigon University ![image](https://github.com/user-attachments/assets/03875730-18af-4e55-8dd2-275056067591)
+My name is Nguyen Cuong. I am study at Saigon University ![image](https://github.com/user-attachments/assets/9c145979-87b9-4e2b-9d01-7d5a6d348637)
+
 
 ## 📫 How to reach me: 
 
