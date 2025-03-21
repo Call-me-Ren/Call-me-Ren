@@ -3,12 +3,7 @@ My name is Nguyen Cuong. I am study at Saigon University ![image](https://github
 
 
 
-## 📫 How to reach me: 
-
-[![Nguyen Cuong GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![Nguyen Cuong stats](https://github-readme-stats-git-masterstaa-rickstaa.vercel.app/apiusername=vietnh1009&show_icons=true&theme=midnight-purple&hide=contribs,prs,issues&custom_title=Nguyen%20Cuong%20GitHub%20Stats)
+![Nguyen Cuong github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Call-me-Ren&show_icons=true&theme=midnight-purple&hide=contribs,prs,issues)
 
 <a href="https://github.com/vietnh1009/QuickDraw/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -91,18 +86,3 @@ My name is Nguyen Cuong. I am study at Saigon University ![image](https://github
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Very-deep-cnn-tensorflow&theme=dracula" />
 </a>
 
-
-<!--
-**Call-me-Ren/Call-me-Ren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
