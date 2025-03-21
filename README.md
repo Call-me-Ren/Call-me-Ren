@@ -5,11 +5,10 @@ My name is Nguyen Cuong. I am study at Saigon University ![image](https://github
 
 ## 📫 How to reach me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vietnguyen-tum/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/vietnh1009/) [![Youtube](https://github.com/vietnh1009/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw)
+[![Facebook](https://i.stack.imgur.com/tskMh.png) Facebook]([https://github.com/vietnh1009/](https://www.facebook.com/nguyen.cuong.661620)) 
 
 
-
-![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vietnh1009&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Nguyen Cuong stats](https://github-readme-stats-git-masterstaa-rickstaa.vercel.app/apiusername=vietnh1009&show_icons=true&theme=midnight-purple&hide=contribs,prs,issues&custom_title=Nguyen%20Cuong%20GitHub%20Stats)
 
 <a href="https://github.com/vietnh1009/QuickDraw/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
