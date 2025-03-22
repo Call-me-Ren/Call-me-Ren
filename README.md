@@ -3,7 +3,7 @@ My name is Nguyen Cuong. I am study at [Sai Gon University](https://sgu.edu.vn) 
 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Call-me-Ren/)
 
-![Nguyen Cuong github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Call-me-Ren&show_icons=true&theme=midnight-purple&hide=contribs,prs,issues)
+![Nguyen Cuong github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Call-me-Ren&show_icons=true&&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide=contribs,prs,issues)
 
 <a href="https://github.com/Call-me-Ren/CTDL-GT/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
