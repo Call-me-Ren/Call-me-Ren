@@ -27,16 +27,17 @@ My name is Nguyen Cuong. I am study at [Sai Gon University](https://sgu.edu.vn) 
 Projects I am currently working on
  
 <br />
-.....
+.....................
 
 <br />
+<br />
 
+![giphy](https://github.com/user-attachments/assets/3d1b5b7b-97e7-46ed-9033-dfda79b3f96c)
 
-[![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDJlMmFuaHp1MTdoYXBjNjJ6aXNyb3B0YjNyeWxtaW43ZTRoaG53MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sIfLhexLUqwik/giphy.gif)
-</details>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Call-me-Ren.Call-me-Ren)
 
 
 Leave a ⭐️ if you like this template and want to modify it for yourself!
-----
+<br />
+-------------------------------------------------------------------------------------------------------------------------------
