@@ -23,16 +23,16 @@ My name is Nguyen Cuong. I am study at [Sai Gon University](https://sgu.edu.vn) 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Call-me-Ren&layout=donut-vertical&theme=omni)](https://github.com/Call-me-Ren/github-readme-stats)
- Projects I am currently working on
-</summary>
 
+Projects I am currently working on
+ 
 <br />
 .....
 
 <br />
 
 
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+[![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDJlMmFuaHp1MTdoYXBjNjJ6aXNyb3B0YjNyeWxtaW43ZTRoaG53MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sIfLhexLUqwik/giphy.gif)
 </details>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Call-me-Ren.Call-me-Ren)
