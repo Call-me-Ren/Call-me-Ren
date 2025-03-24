@@ -22,7 +22,7 @@ My name is Nguyen Cuong. I am study at [Sai Gon University](https://sgu.edu.vn) 
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Call-me-Ren&layout=donut-vertical&theme=omni)](https://github.com/Call-me-Ren/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DangPhuThanh&layout=donut-vertical&theme=omni)](https://github.com/Call-me-Ren/github-readme-stats)
 
 Projects I am currently working on
  
