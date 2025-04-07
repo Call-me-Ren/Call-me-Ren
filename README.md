@@ -30,6 +30,8 @@ My name is Nguyen Cuong. I am study at [Sai Gon University](https://sgu.edu.vn) 
 <a href="https://nguyentricuong.carrd.co/" target="_blank">
     <img src="https://png.pngtree.com/png-clipart/20190630/original/pngtree-vector-web-icon-png-image_4141328.jpg" alt="Website" width="20%">
   </a>
+  <br>
+  <br>
 Projects I am currently working on
  
 <br />
