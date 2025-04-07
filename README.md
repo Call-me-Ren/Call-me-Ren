@@ -23,7 +23,11 @@ My name is Nguyen Cuong. I am study at [Sai Gon University](https://sgu.edu.vn) 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Call-me-Ren&layout=donut-vertical&theme=omni)](https://github.com/Call-me-Ren/github-readme-stats)
-
+<br />
+<p align="center">
+<a href="https://nguyentricuong.carrd.co/" target="_blank">
+    <img src="https://png.pngtree.com/png-clipart/20190630/original/pngtree-vector-web-icon-png-image_4141328.jpg" alt="Website">
+  </a>
 Projects I am currently working on
  
 <br />
