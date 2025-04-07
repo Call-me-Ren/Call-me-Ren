@@ -24,7 +24,7 @@ My name is Nguyen Cuong. I am study at [Sai Gon University](https://sgu.edu.vn) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Call-me-Ren&layout=donut-vertical&theme=omni)](https://github.com/Call-me-Ren/github-readme-stats)
 
-<br />
+<br>
 
 <p align="center">
 <a href="https://nguyentricuong.carrd.co/" target="_blank">
@@ -32,7 +32,7 @@ My name is Nguyen Cuong. I am study at [Sai Gon University](https://sgu.edu.vn) 
   </a>
   <br>
   <br>
-Projects I am currently working on
+<p> Projects I am currently working on
  
 <br />
 .....................
