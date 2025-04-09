@@ -3,7 +3,7 @@
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-My name is Nguyen Cuong. I am study at [Sai Gon University](https://sgu.edu.vn) (SGU) ![image](https://github.com/user-attachments/assets/d7049d16-e1bc-4365-b43a-08f3fbfd0794)
+My name is Nguyen Cuong. I am studying at [Sai Gon University](https://sgu.edu.vn) (SGU) ![image](https://github.com/user-attachments/assets/d7049d16-e1bc-4365-b43a-08f3fbfd0794)
 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Call-me-Ren/)
 
